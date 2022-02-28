@@ -32,5 +32,13 @@ module.exports = {
     {
       resolve: 'gatsby-transformer-json',
     },
+    {
+      resolve: 'gatsby-plugin-google-gtag',
+      options: {
+        trackingIds: [
+          'G-XV8JPJX6X0',
+        ],
+      },
+    },
   ],
 };
