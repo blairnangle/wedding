@@ -7,7 +7,7 @@ function AccommodationPage() {
       <h1>Accommodation</h1>
       <h3>Reasonable</h3>
       <p>
-        ° Albergo Il Giglio, central Montalcino. Can be booked directly on their
+        ° Albergo Il Giglio - hotel, central Montalcino. Can be booked directly on their
         {' '}
         <a href="https://www.gigliohotel.com/?lang=en">website</a>
         {' '}
@@ -17,7 +17,7 @@ function AccommodationPage() {
         .
       </p>
       <p>
-        ° Porta Castellana (B&B/apartment), central Montalcino.
+        ° Porta Castellana - B&B/apartment, central Montalcino.
         {' '}
         <a href="https://portacastellana.com/en/">Website</a>
         ,
@@ -26,7 +26,7 @@ function AccommodationPage() {
         .
       </p>
       <p>
-        ° Agriturismo Le Ragnaie, Countryhouse, 5-minute drive to central Montalcino and right next to the reception venue.
+        ° Agriturismo Le Ragnaie - countryhouse, 5-minute drive to central Montalcino and right next to the reception venue.
         {' '}
         <a href="https://leragnaie.com/en/">Website</a>
         ,
@@ -35,7 +35,7 @@ function AccommodationPage() {
         .
       </p>
       <p>
-        ° SI Montalcino (hotel), 3-minute drive or 20-minute walk from central Montalcino.
+        ° SI Montalcino - hotel, 3-minute drive or 20-minute walk from central Montalcino.
         {' '}
         <a href="https://portacastellana.com/en/">Website</a>
         ,
@@ -44,7 +44,7 @@ function AccommodationPage() {
         .
       </p>
       <p>
-        ° Agriturismo Poggio Il Castellare, 20minute-drive to central Montalcino.
+        ° Agriturismo Poggio Il Castellare - countryhouse, 20minute-drive to central Montalcino.
         {' '}
         <a href="https://poggioilcastellare.com/agriturismo/">Website</a>
         ,
@@ -54,7 +54,7 @@ function AccommodationPage() {
       </p>
       <h3>Fancier</h3>
       <p>
-        ° Drogheria e Locanda Franc — they have rooms, apartments and villa stays all in central Montalcino. Can be booked directly on their
+        ° Drogheria e Locanda Franc - they have rooms, apartments and villa stays all in central Montalcino. Can be booked directly on their
         {' '}
         <a href="https://locandafranci.com/en/accommodation/locanda-franci/">website</a>
         {' '}
@@ -82,7 +82,7 @@ function AccommodationPage() {
         .
       </p>
       <p>
-        ° Casanova di Neri Relais – Wine Resort & Farmstay, 7-minute drive from central Montalcino.
+        ° Casanova di Neri Relais - Wine Resort & Farmstay, 7-minute drive from central Montalcino.
         {' '}
         <a href="https://www.casanovadinerirelais.com/en/">Website</a>
         ,
