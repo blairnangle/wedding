@@ -88,6 +88,7 @@ function RsvpPage() {
   const [isComingFriday, setIsComingFriday] = useState('Yes');
   const [isComingSunday, setIsComingSunday] = useState('Yes');
   const [dietaryRequirementsOrAllergies, setDietaryRequirementsOrAllergies] = useState('');
+  const [travelArrangements, setTravelArrangements] = useState('');
   const [differencesWithinCouple, setDifferencesWithinCouple] = useState('');
   const [songRequest, setSongRequest] = useState('');
 
@@ -98,6 +99,7 @@ function RsvpPage() {
       isComingFriday,
       isComingSunday,
       dietaryRequirementsOrAllergies,
+      travelArrangements,
       differencesWithinCouple,
       songRequest,
     }).then((r) => {
@@ -132,6 +134,11 @@ function RsvpPage() {
   const handleDietaryChange = (event) => {
     const { value } = event.target;
     setDietaryRequirementsOrAllergies(value);
+  };
+
+  const handleTravelChange = (event) => {
+    const { value } = event.target;
+    setTravelArrangements(value);
   };
 
   const handleDifferencesWithinCoupleChange = (event) => {
@@ -243,6 +250,15 @@ function RsvpPage() {
                 name="dietaryRequirementsOrAllergies"
                 value={dietaryRequirementsOrAllergies}
                 onChange={(event) => handleDietaryChange(event)}
+              />
+            </p>
+            <p>
+              <FormLabel for="travelArrangements">If you are travelling alone or in a small group and want to share car rental with someone, please let us know your flight details and we will try to coordinate</FormLabel>
+              <FormTextArea
+                type="text"
+                name="travelArrangements"
+                value={travelArrangements}
+                onChange={(event) => handleTravelChange(event)}
               />
             </p>
             <p>

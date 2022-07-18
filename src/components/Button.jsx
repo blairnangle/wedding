@@ -22,7 +22,6 @@ const ButtonWrapper = styled.button`
     left: 0;
     bottom: -0.25rem;
     opacity: 1;
-    transition: opacity var(--transSlow);
   }
 
   &:hover,
