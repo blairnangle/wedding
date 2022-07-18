@@ -37,11 +37,16 @@ const ButtonWrapper = styled.button`
   &:visited {
     text-decoration: none;
   }
+  
+  &:disabled {
+    cursor: not-allowed;
+    opacity: 0.15;
+  }
 `;
 
 function Button(props) {
   return (
-    <ButtonWrapper type={props.type}>
+    <ButtonWrapper type={props.type} disabled={props.disabled}>
       {props.text ? props.text : 'Read Article'}
       {' '}
     </ButtonWrapper>

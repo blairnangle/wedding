@@ -23,4 +23,8 @@ export const mainMenuItems = [
     path: '/gifts',
     title: 'gifts',
   },
+  {
+    path: '/rsvp',
+    title: 'rsvp',
+  },
 ];
