@@ -44,7 +44,7 @@ function AccommodationPage() {
         .
       </p>
       <p>
-        ° Agriturismo Poggio Il Castellare - countryhouse, 20minute-drive to central Montalcino.
+        ° Agriturismo Poggio Il Castellare - countryhouse, 20-minute drive to central Montalcino.
         {' '}
         <a href="https://poggioilcastellare.com/agriturismo/">Website</a>
         ,
