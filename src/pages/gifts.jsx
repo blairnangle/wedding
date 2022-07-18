@@ -6,7 +6,10 @@ function GiftsPage() {
     <Layout>
       <h1>Gifts</h1>
       <p>
-        Coming soon…
+        Gifts are absolutely not necessary! But, if you did want to, we have a wedding list
+        {' '}
+        <a href="https://www.weddingshop.com/Buy/View/111746">here</a>
+        .
       </p>
     </Layout>
   );
