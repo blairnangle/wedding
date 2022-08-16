@@ -1,30 +1,30 @@
 export const mainMenuItems = [
   {
     path: '/',
-    title: 'home',
+    title: 'Home',
   },
   {
     path: '/travel',
-    title: 'travel',
+    title: 'Travel',
   },
   {
     path: '/accommodation',
-    title: 'accommodation',
+    title: 'Accommodation',
   },
   {
     path: '/montalcino',
-    title: 'montalcino',
+    title: 'Montalcino',
   },
   {
     path: '/festivities',
-    title: 'festivities',
+    title: 'Festivities',
   },
   {
     path: '/gifts',
-    title: 'gifts',
+    title: 'Gifts',
   },
   {
     path: '/rsvp',
-    title: 'rsvp',
+    title: 'RSVP',
   },
 ];
