@@ -1,58 +1,65 @@
 [
   {
     "order": 0,
+    "image": "los-angeles.jpg",
+    "alt": "los angeles",
+    "quote": "\"It's not often I get the opportunity to sample low-to-mid-range wines these days, so thank you\" — Gareth Birchley",
+    "imageLeft": true
+  },
+  {
+    "order": 10,
     "image": "engagement-party.jpg",
     "alt": "our engagement party",
     "quote": "\"Should be decent\" — Lewis Nangle",
-    "imageLeft": true
+    "imageLeft": false
   },
   {
-    "order": 1,
+    "order": 20,
     "image": "kiss-by-the-river.jpg",
     "alt": "kiss by the river",
     "quote": "\"Love so strong, the EU tried to ban it\" — Hugo Watson",
-    "imageLeft": false
+    "imageLeft": true
   },
   {
-    "order": 2,
+    "order": 30,
     "image": "eden-project.jpg",
     "alt": "eden project",
     "quote": "\"Will it be a free bar?\" — Chris Cartmill",
-    "imageLeft": true
+    "imageLeft": false
   },
   {
-    "order": 3,
+    "order": 40,
     "image": "kitchen-champagne.jpg",
     "alt": "kitchen champagne",
     "quote": "\"It's the event of the year that hasn't happened yet but almost definitely will\" — Victoria Hessel",
-    "imageLeft": false
+    "imageLeft": true
   },
   {
-    "order": 4,
+    "order": 50,
     "image": "bellas-wedding.jpg",
     "alt": "bella's wedding",
     "quote": "\"A made up quote to go beside an image\" — Blair",
-    "imageLeft": true
+    "imageLeft": false
   },
   {
-    "order": 5,
+    "order": 60,
     "image": "exmoor-hats.jpg",
     "alt": "exmoor hats",
     "quote": "\"Another good man gone\" — The Boys",
-    "imageLeft": false
-  },
-  {
-    "order": 6,
-    "image": "cornish-walk.jpg",
-    "alt": "cornish walk",
-    "quote": "\"Shaping up to be one of my top ten Southern Tuscany weddings of early autumn 2022\" — Charlotte Grant-West",
     "imageLeft": true
   },
   {
-    "order": 7,
+    "order": 70,
+    "image": "cornish-walk.jpg",
+    "alt": "cornish walk",
+    "quote": "\"Shaping up to be one of my top ten Southern Tuscany weddings of early autumn 2022\" — Charlotte Grant-West",
+    "imageLeft": false
+  },
+  {
+    "order": 80,
     "image": "shots-baby.jpg",
     "alt": "shots, baby",
     "quote": "\"Shots, baby\" — Hamish Buchanan",
-    "imageLeft": false
+    "imageLeft": true
   }
 ]
