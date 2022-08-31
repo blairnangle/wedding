@@ -20,8 +20,12 @@ function TravelPage() {
       <p>
         Montalcino is tiny and can be walked from one end to the other in about ten minutes. The town is situated on top of a hill, so be prepared for steps.
       </p>
+      <h4>Taxis</h4>
       <p>
-        There are some local taxi companies—we'll share details in due course.
+        If you are staying at a hotel, your best bet is to get them to call a taxi for you. Otherwise, we have a list of local taxi numbers:
+        <ul>
+          <li>Giovanni +393384315291</li>
+        </ul>
       </p>
       <p>
         There is a dearth of public transport—as far as we can tell there is one public bus, the infrequent 114 to Buonconvento.
