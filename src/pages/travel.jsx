@@ -25,6 +25,11 @@ function TravelPage() {
         If you are staying at a hotel, your best bet is to get them to call a taxi for you. Otherwise, we have a list of local taxi numbers:
         <ul>
           <li>Giovanni +393384315291</li>
+          <li>Walter +393471938291</li>
+          <li>Nadia +393485702298</li>
+          <li>Pierangioli Limousine +393483924780 (long transfers)</li>
+          <li>Paolo Batignani nccmontalcino@gmail.com</li>
+          <li>Lello Tinelli: info@andiamotaxiandtrips.com</li>
         </ul>
       </p>
       <p>
