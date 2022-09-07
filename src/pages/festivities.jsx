@@ -9,9 +9,9 @@ function FestivitiesPage() {
       <p>
         Aperitivo at
         {' '}
-        <i>TBC</i>
+        <a href="https://goo.gl/maps/Lj27MG1cDxxNHZ1B6"><i>Bar Prato</i></a>
         {' '}
-        in central Montalcino. We'll talk timings in a bit.
+        in central Montalcino. 6pm onwards!
       </p>
       <h3>The Big Day (Saturday, 10th September)</h3>
       <p>
